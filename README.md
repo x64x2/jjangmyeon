@@ -8,8 +8,8 @@ To use the web crawler, first install Go on your machine and set up your Go work
 
 Then, clone this repository and navigate to the root directory of the project:
 
-> $ git clone https://github.com/your-username/web-crawler.git
-> $ cd web-crawler
+> $ git clone https://github.com/ericsomto/wbcrl
+> $ cd wbcrl
 
 Next, build the program using the following command:
 
@@ -17,7 +17,7 @@ Next, build the program using the following command:
 
 This will create an executable file called web-crawler. You can then run the web crawler using the following command:
 
-> $ ./web-crawler -seed https://www.example.com -depth 3
+> $ ./wbclr -seed https://www.wired.com -depth 3
 
 This will start the web crawler at the seed URL https://www.example.com and crawl up to a depth of 3. You can adjust the seed URL and maximum depth to your liking.
 
@@ -25,7 +25,7 @@ This will start the web crawler at the seed URL https://www.example.com and craw
 
 The web crawler will output the URLs of the pages it has visited, one URL per line. You can redirect the output to a file if you want to save the results:
 
-> $ ./web-crawler -seed https://www.example.com -depth 3 > results.txt
+> $ ./wbclr -seed https://www.wired.com -depth 3 > results.txt
 
 ### Dependencies
 
