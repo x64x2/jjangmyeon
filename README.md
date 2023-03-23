@@ -9,6 +9,7 @@ To use the web crawler, first install Go on your machine and set up your Go work
 Then, clone this repository and navigate to the root directory of the project:
 
 > $ git clone https://github.com/ericsomto/wbcrl
+
 > $ cd wbcrl
 
 Next, build the program using the following command:
