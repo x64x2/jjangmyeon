@@ -20,7 +20,7 @@ This will create an executable file called web-crawler. You can then run the web
 
 > $ ./wbclr -seed https://www.wired.com -depth 3
 
-This will start the web crawler at the seed URL https://www.example.com and crawl up to a depth of 3. You can adjust the seed URL and maximum depth to your liking.
+This will start the web crawler at the seed URL https://www.wired.com and crawl up to a depth of 3. You can adjust the seed URL and maximum depth to your liking.
 
 ### Output
 
