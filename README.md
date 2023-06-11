@@ -1,6 +1,4 @@
-# Web Crawler in Go
-
-This is a simple web crawler implemented in Go. It takes a seed URL and a maximum depth as input and then starts crawling the web from the seed URL, following links up to the specified maximum depth.
+This is not a normal web crawler. It takes a seed URL and then starts crawling the web from the seed URL, following links up to the specified maximum depth.
 
 ## Usage
 
