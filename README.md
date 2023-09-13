@@ -1,4 +1,4 @@
-A small and simple web crawler for Tor
+A small and simple web crawler
 
 **Note: Don't use it right now**
 
@@ -12,8 +12,8 @@ git clone https://github.com/s0mt0chukwu/wbcrl
 # Visit https://go.dev/doc/install and download according your platform, if you haven't
 cd wbcrl && go build
 
-## If you want to change onion URL, check out main.go file and change URL variable
+## If you want to change URL, check out main.go file and change URL variable
 ## And run
 ./wbcrl
 ```
-- Now you should be able to web crawl onion links on tor
+- Now you should be able to web crawl links on the web
