@@ -1,19 +1,9 @@
-A small and simple web crawler
+# furl
 
-**Note: Don't use it right now**
+A tiny web url fetch tool
 
 ## Usage
-- Clone it
 ```sh
-git clone https://github.com/s0mt0chukwu/wbcrl
+git clone https://github.com/s0mt0chukwu/furl
 ```
 - Compile
-```sh
-# Visit https://go.dev/doc/install and download according your platform, if you haven't
-cd wbcrl && go build
-
-## If you want to change URL, check out main.go file and change URL variable
-## And run
-./wbcrl
-```
-- Now you should be able to web crawl links on the web
