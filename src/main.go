@@ -1,4 +1,4 @@
-//// file: crawl.go
+//// file: main.go
 package main
 
 import (
