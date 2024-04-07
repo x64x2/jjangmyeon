@@ -1,9 +1,9 @@
-# furl
+# intro
 
-A tiny web url fetch tool
+A tiny web crawler tool
 
 ## Usage
 ```sh
-git clone https://github.com/s0mt0chukwu/furl
+clone repo
 ```
-- Compile
+- run
