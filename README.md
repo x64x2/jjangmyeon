@@ -4,16 +4,10 @@
 web crawler for given a URL, it outputs a simple textual sitemap.
 
 The crawler has limited to one subdomain - so when you start with **https://pornhub.com/about**, it crawls all pages within example.com, but not follow external links, for example to _nhentai.com_ or _subdomain.example.com_.
-![Crawler schema](images/schema.png)
 
 ## Features
 
-### Agenda
-
 The list bellow represents feaures status for the project:
-
-- [ ] incomplete task / TODO
-- [x] completed 
 
 ### For the current version
 
