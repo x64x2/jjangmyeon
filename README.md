@@ -3,7 +3,7 @@
 
 web crawler for given a URL, it outputs a simple textual sitemap.
 
-The crawler has limited to one subdomain - so when you start with **https://pornhub.com/about**, it crawls all pages within example.com, but not follow external links, for example to _nhentai.com_ or _subdomain.example.com_.
+The crawler has limited to one subdomain - so when you start with **https://xhentai.com/about**, it crawls all pages within example.com, but not follow external links, for example to _nhentai.com_ or _subdomain.example.com_.
 
 ## Features
 
