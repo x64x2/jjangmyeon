@@ -1,14 +1,13 @@
-## baka
 
-A KISS cli for searching and playing videos from Bilibili.
 
-### INSTALLATION
+# jjangmyeon
 
-To install `baka`, run:
+A cli for downloading torrents
 
-```console
-    perl Build.PL
-    sudo ./Build installdeps
-    sudo ./Build install
-```
+ Ensure dependencies are installed
 
+- see DEPENDS
+ 
+Install by running :
+	
+    > $ perl install.pl
