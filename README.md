@@ -10,4 +10,4 @@ A cli for downloading torrents
  
 Install by running :
 	
-    > $ perl install.pl
+      $ perl install.pl
