@@ -1,41 +1,41 @@
-!Build/
-.last_cover_stats
-/META.yml
-/META.json
-/MYMETA.*
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
 *.o
-*.pm.tdy
-*.bs
+*.obj
 
-# Devel::Cover
-cover_db/
+# Precompiled Headers
+*.gch
+*.pch
 
-# Devel::NYTProf
-nytprof.out
+# Linker files
+*.ilk
 
-# Dist::Zilla
-/.build/
+# Debugger Files
+*.pdb
 
-# Module::Build
-_build/
-Build
-Build.bat
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
 
-# Module::Install
-inc/
+# Fortran module files
+*.mod
+*.smod
 
-# ExtUtils::MakeMaker
-/blib/
-/_eumm/
-/*.gz
-/Makefile
-/Makefile.old
-/MANIFEST.bak
-/pm_to_blib
-/*.zip
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
 
-# Carton/Carmel
-/local/
-/.carmel/
-# cpanfile.snapshot should generally be ignored for library code, otherwise included
-# cpanfile.snapshot 
+# Executables
+*.exe
+*.out
+*.app
+
+# debug information files
+*.dwo
