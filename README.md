@@ -1,6 +1,4 @@
 
-also know as automatic lipsync 
-
 this repo demonstrates how it is used to generate phoneme timings.
 
 it supports two modes which we call "text based" and "textless".
